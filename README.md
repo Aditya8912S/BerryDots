@@ -1,10 +1,10 @@
-# BerryWM Nordic Rice – Dotfiles by Aditya Yadav
+# BerryWM  Rice – Dotfiles by Aditya Yadav
 
-A clean, fast, and practical BerryWM rice using a Nordic aesthetic with modular configs, Rofi launcher, Polybar HUD, and flame-powered keybinds. Built to be UNIXporn-ready, but tuned for real-world daily usage.
+A clean, fast, and practical BerryWM rice using a aesthetic with modular configs, Rofi launcher, Polybar HUD, and flame-powered keybinds. Built to be UNIXporn-ready, but tuned for real-world daily usage.
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 #### BerryWM Desktop
 ![berrywm-showoff](previews/berrywm-showoff.png)
@@ -20,7 +20,7 @@ A clean, fast, and practical BerryWM rice using a Nordic aesthetic with modular 
 
 ---
 
-## 🎛️ SXHKD Keybindings (Raw)
+##  SXHKD Keybindings (Raw)
 
 ```bash
 # ┌──────────────────────────────────────────────────────────────┐
