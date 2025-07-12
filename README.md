@@ -31,7 +31,7 @@ A clean, fast, and practical BerryWM rice using diffrent aesthetic themes with m
 
 ---
 
-## 🎛️ SXHKD Keybindings (Raw)
+## SXHKD Keybindings (Raw)
 
 ```bash
 # ┌──────────────────────────────────────────────────────────────┐
@@ -119,4 +119,6 @@ super + alt + w
 #Theme Switcher Menu
 super + shift + t
     bash ~/.config/berry/scripts/berry-theme-switcher.sh
-
+```
+#### Dependencies
+--> polybar, rofi, berry, sxhkd, pywal, betterlockscreen, sddm(optional only if needed), dunst, picom, starship, fish, kitty, mpv, nerdfonts 
